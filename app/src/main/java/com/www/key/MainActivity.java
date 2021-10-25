@@ -1,4 +1,4 @@
-package com.iqilu.key;
+package com.www.key;
 
 import android.os.Bundle;
 import android.util.Log;
@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
 //        boolean verify = sm2.verifyHex(data, sign);
 
 
-        String text = "我是一段测试aaaa";
+        String text = "我是一段测试";
 
         SM2 sm2 = SmUtil.sm2();
 // 公钥加密，私钥解密

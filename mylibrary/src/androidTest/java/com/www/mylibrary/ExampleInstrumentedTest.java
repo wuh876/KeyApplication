@@ -1,4 +1,4 @@
-package com.iqilu.key;
+package com.www.mylibrary;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.iqilu.key", appContext.getPackageName());
+        assertEquals("com.iqilu.mylibrary.test", appContext.getPackageName());
     }
 }

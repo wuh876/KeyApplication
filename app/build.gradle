@@ -6,7 +6,7 @@ android {
     compileSdkVersion 30
 
     defaultConfig {
-        applicationId "com.iqilu.key"
+        applicationId "com.www.key"
         minSdkVersion 19
         targetSdkVersion 30
         versionCode 1

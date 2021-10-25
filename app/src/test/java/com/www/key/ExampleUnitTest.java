@@ -1,4 +1,4 @@
-package com.iqilu.mylibrary;
+package com.www.key;
 
 import org.junit.Test;
 
